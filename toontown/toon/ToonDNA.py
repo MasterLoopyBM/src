@@ -1963,9 +1963,9 @@ allColorsList = [VBase4(1.0, 1.0, 1.0, 1.0),
  # Neon Orange - 35
  VBase4(1.0, 0.639215, 0.262745, 1.0),
  # Sapphire - 36
- VBase4(0.0, 0.403921, 0.647058, 1.0)
+ VBase4(0.0, 0.403921, 0.647058, 1.0),
  # MegaRed - 37 - Inspect it closely, and you'll see it is pure red.
- VBase4(1.0, 0.0, 0.0, 1.0)
+ VBase4(1.0, 0.0, 0.0, 1.0),
  # MegaBlue - 38 - Inspect it closely, and you'll see it is pure blue.
  VBase4(0.0, 0.0, 1.0, 1.0)
  ]
