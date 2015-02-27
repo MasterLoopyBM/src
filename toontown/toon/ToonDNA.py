@@ -1967,7 +1967,9 @@ allColorsList = [VBase4(1.0, 1.0, 1.0, 1.0),
  # MegaRed - 37 - Inspect it closely, and you'll see it is pure red.
  VBase4(1.0, 0.0, 0.0, 1.0),
  # MegaBlue - 38 - Inspect it closely, and you'll see it is pure blue.
- VBase4(0.0, 0.0, 1.0, 1.0)
+ VBase4(0.0, 0.0, 1.0, 1.0),
+ # MegaGreen - 39 - Inspect it closely, and you'll see it is pure green. Thanks for the idea, mgracer48! -Master Loopy Bananamuffin
+ VBase4(0.0, 1.0, 0.0, 1.0)
  ]
 defaultBoyColorList = [0,
  1,
