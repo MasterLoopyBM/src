@@ -1,0 +1,6 @@
+#The following is a work-in-progress for a parkour racing feature.
+#This first part is the qualification times for a parkour race. There are 3
+#map versions in parkour: Short, Normal, and Mega.
+SHORT_QUALIFY_TIME = 90
+NORMAL_QUALIFY_TIME = 240
+MEGA_QUALIFY_TIME = 360
