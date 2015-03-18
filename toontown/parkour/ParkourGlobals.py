@@ -5,12 +5,13 @@ SHORT_QUALIFY_TIME = 90
 NORMAL_QUALIFY_TIME = 240
 MEGA_QUALIFY_TIME = 360
 #The next piece is the map names. Remember: There are four map versions!
+mapNames = {
 ParkourTTC = "Urban Trolley Follies"
 ParkourDD = "Parkour Ahoy!"
 ParkourDG = "Hedge Maze Marathon"
 ParkourMML = "Orchestrated Parkour"
 ParkourTB = "Iceberg Toondra"
-ParkourDDL = "Sleepy Parkour"
+ParkourDDL = "Sleepy Parkour"}
 #This little portion of the code contains the map versions themselves. The
 #two versions, Short and Mega, will be displayed.
 Practice = "[Practice]"

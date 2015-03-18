@@ -2,6 +2,7 @@ from toontown.toonbase.TTLocalizerEnglishProperty import *
 from toontown.catalog import CatalogAccessoryItemGlobals
 from otp.otpbase import OTPLocalizer as OL
 from toontown.estate import HouseGlobals
+from toontown.parkour import *
 OL.SpeedChatStaticText = OL.SpeedChatStaticTextToontown.copy()
 for key in OL.SpeedChatStaticTextCommon.iterkeys():
     OL.SpeedChatStaticText[key] = OL.SpeedChatStaticTextCommon[key]
@@ -9901,3 +9902,5 @@ def getGloveColorRewardString(colorId):
 
 def getGloveColorPosterString(colorId):
     return 'Reward: %s Gloves' % NumToColor[colorId]
+
+ParkourMapNames = {ParkourGlobals.mapNames}
