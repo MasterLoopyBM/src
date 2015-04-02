@@ -9915,5 +9915,3 @@ def getGloveColorRewardString(colorId):
 
 def getGloveColorPosterString(colorId):
     return 'Reward: %s Gloves' % NumToColor[colorId]
-
-ParkourMapNames = {ParkourGlobals.mapNames}
