@@ -9915,3 +9915,6 @@ def getGloveColorRewardString(colorId):
 
 def getGloveColorPosterString(colorId):
     return 'Reward: %s Gloves' % NumToColor[colorId]
+
+#Chairman stuff.
+chairmanName = "Chairman of the Cogs"
